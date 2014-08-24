@@ -1,0 +1,24 @@
+body {
+	background: url("https://scontent-b-ams.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1377399_10153415720445473_1822600708_n.jpg");
+	color: white;
+    font-family: Helvetica;
+    background-size: cover;
+    background-position: center center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+p{
+    font-size:24px;
+}
+
+a {
+    text-decoration: underlined;
+    color: white
+}
+
+.me {
+	height: 250px;
+	width: 250px;
+	border-radius:50%;	
+}
