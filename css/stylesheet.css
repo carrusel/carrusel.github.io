@@ -1,13 +1,10 @@
 body {
     font-family: Avenir;
+    font-size:12px;
 }
 
 p{
     font-size: 18px;
-}
-
-li{
-    font-size:16px;
 }
 
 a {
@@ -31,5 +28,5 @@ a {
     float:left;
     width: 60%;
     box-sizing: inherit;
-    border-left:1px solid #D2D4D7;
+    border-left:2px solid #D2D4D7;
 }
