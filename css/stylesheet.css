@@ -25,11 +25,11 @@ a {
     float:left;
     width: 15%;
     box-sizing: border-box;
-    border-right:1px solid black;
 }
 
 .content {
     float:left;
     width: 60%;
     box-sizing: inherit;
+    border-left:1px solid black;
 }
