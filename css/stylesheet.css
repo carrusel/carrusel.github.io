@@ -1,3 +1,7 @@
+html {
+    box-sizing: inherit;
+}
+
 body {
     font-family: Avenir;
 }
@@ -12,6 +16,7 @@ li{
 
 a {
     text-decoration: underlined;
+    color: black;
 }
 
 .me {
@@ -24,6 +29,7 @@ a {
     float:left;
     outline:1px solid red;
     width: 50%;
+    border-right:1px solid black;
 }
 
 .content {
