@@ -1,15 +1,9 @@
 body {
-	background: url("https://scontent-b-ams.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1377399_10153415720445473_1822600708_n.jpg");
-	color: white;
-    font-family: Helvetica;
-    background-size: cover;
-    background-position: center center;
-    background-repeat:no-repeat;
-    background-attachment:fixed;
+    font-family: Avenir;
 }
 
 p{
-    font-size:24px;
+    font-size:18px;
 }
 
 a {
@@ -18,7 +12,7 @@ a {
 }
 
 .me {
-	height: 250px;
-	width: 250px;
+	height: 100px;
+	width: 100px;
 	border-radius:50%;	
 }
