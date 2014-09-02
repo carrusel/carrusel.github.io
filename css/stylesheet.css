@@ -2,13 +2,16 @@ body {
     font-family: Avenir;
 }
 
+h1{
+    font-size: 18px;
+}
+
 p{
-    font-size:18px;
+    font-size:16px;
 }
 
 a {
     text-decoration: underlined;
-    color: white
 }
 
 .me {
