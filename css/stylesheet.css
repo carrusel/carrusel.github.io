@@ -20,9 +20,14 @@ a {
 	border-radius:50%;	
 }
 
-div.vertical-line{
-  width: 1px;
-  background-color: black; 
-  height: 100%; 
-  float: left;
+.sidebar {
+    float:left;
+    outline:1px solid red;
+    width: 50%;
+}
+
+.content {
+    float:left;
+    outline: 1px solid blue;
+    width: 50%;
 }
