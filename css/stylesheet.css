@@ -33,5 +33,5 @@ a {
     float:left;
     outline: 1px solid blue;
     width: 50%;
-    box-sizing: inherit;
+    box-sizing: content-box;
 }
