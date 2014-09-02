@@ -23,7 +23,7 @@ a {
 
 .sidebar {
     float:left;
-    width: 15%;
+    width: 10%;
     box-sizing: border-box;
 }
 
@@ -31,5 +31,5 @@ a {
     float:left;
     width: 60%;
     box-sizing: inherit;
-    border-left:1px solid black;
+    border-left:1px solid #D2D4D7;
 }
