@@ -31,4 +31,6 @@ a {
     box-sizing: inherit;
     border-left:2px solid #D2D4D7;
     margin: 70px 50px 10px 20px;
+    padding: 40px;
+    padding-left: 30px;
 }
