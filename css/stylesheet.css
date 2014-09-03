@@ -1,7 +1,6 @@
 body {
     font-family: Avenir;
     font-size:14px;
-    margin: auto;
 }
 
 p{
@@ -22,6 +21,7 @@ a {
 .sidebar {
     float:left;
     width: 10%;
+    margin:auto;
     box-sizing: border-box;
 }
 
@@ -30,4 +30,5 @@ a {
     width: 60%;
     box-sizing: inherit;
     border-left:2px solid #D2D4D7;
+    margin: auto;
 }
